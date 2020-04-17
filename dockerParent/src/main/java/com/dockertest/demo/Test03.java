@@ -6,4 +6,7 @@ package com.dockertest.demo;
  * @date 2020/4/17 11:58
  */
 public class Test03 {
+    public static void main(String[] args) {
+
+    }
 }
